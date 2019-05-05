@@ -6,6 +6,6 @@
 
 Project structure: Model/Entity AND Repository(dao layer) THAT´S IT :) no more bolier-plate
 
-Project description: This is a simple project, where we can use employee for multiple options based on CRUD Pattern and the DAO technique that we are going to use is SPRING-DATA-JPA.
+Project description: This is a simple project, where we can use employee for multiple options based on CRUD Pattern and the DAO technique that we are going to use is SPRING-DATA-REST.
 
 Technologies: Spring Boot / MySQL / IntellIJ / RESTful / Postman
